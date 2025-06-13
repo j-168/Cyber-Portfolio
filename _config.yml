@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Joy Garrett
+email: JoyGarrett168@gmail.com
+url: https://j-168.github.io/Cyber-Portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author: Joy Garrett
 
 # Google webmaster tools
 google_verify:
@@ -25,14 +25,14 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: fffcf9 #80B3FF
+  primary-rgb: "255,252,249" #"128,179,255"
+  secondary: b1ede8 #FD6E8A
+  secondary-dark: ff6978 #A2122F
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Joy Garrett
   location: Location
   social: Around the Web
   credits: Credits
@@ -42,16 +42,15 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/beau-gilbert93/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/j-168
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:JoyGarrett168@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
-
+  - line: Kings Mountain, NC
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
 Cyber icons created by <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
